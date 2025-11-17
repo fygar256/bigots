@@ -98,7 +98,7 @@ class Game:
         lines = [
             "Bigots Ver 1.0",
             "Mission: kill all bigots to survive!",
-            "Ｏ -- bigots, chase player step by step.",
+            "Ｏ -- Bigots, chase player step by step.",
             "＃ -- Rock, destroy bigots and player when touched.",
             "＠ -- Player, control to avoid crashes and survive.",
             "",
